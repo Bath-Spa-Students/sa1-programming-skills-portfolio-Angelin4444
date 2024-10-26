@@ -5,14 +5,14 @@
 #4. Print the value of the sum of the sum to the console
 
 #simple sums
-#inserting an integer to the first variable
+#Adding an integer to the first variable
 mango = (int(8))
 
-#inserting an integer to the second variable
+#Adding an integer to the second variable
 strawberry = (int(10))
 
-#inserting both the first and second variable to the third variable
+#Adding both the first and second variable to the third variable
 grapes = (mango + strawberry)
 
-#print the variable charle
+#print the variable 
 print(grapes)
