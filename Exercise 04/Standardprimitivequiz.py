@@ -30,7 +30,7 @@ else:
 #Writing the 3rd question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Croatia?:") #(writing the 2nd question)
 if Answer.strip().lower() == "zagreb": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
