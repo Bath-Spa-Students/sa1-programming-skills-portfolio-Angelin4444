@@ -23,7 +23,7 @@ else:
 #Writing the 2nd question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Belgium?:") #(writing the 2nd question)
 if Answer.strip().lower() == "brussels": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
@@ -37,48 +37,48 @@ else:
 #Writing the 4th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Cyprus?:") #(writing the 2nd question)
 if Answer.strip().lower() == "nicosia": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 5th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Denmark?:") #(writing the 2nd question)
 if Answer.strip().lower() == "copenhagen": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 6th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Finland?:") #(writing the 2nd question)
 if Answer.strip().lower() == "helsinki": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 7th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Greece?:") #(writing the 2nd question)
 if Answer.strip().lower() == "athens": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 8th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Latvia?:") #(writing the 2nd question)
 if Answer.strip().lower() == "rigga": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 9th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Ireland?:") #(writing the 2nd question)
 if Answer.strip().lower() == "dublin": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
 
 #Writing the 10th question to the variable ( with modification on upper and lower case)
 Answer = input("What is the capital of Italy?:") #(writing the 2nd question)
 if Answer.strip().lower() == "rome": #(writing the answer for the question)
-     print("The answe is correct") #(if the answer is correct)
+     print("The answer is correct") #(if the answer is correct)
 else:
     print("The answer is wrong") #(if the answer is wrong)
