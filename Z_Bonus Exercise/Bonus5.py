@@ -9,7 +9,7 @@ version that fails will have no output.)
 """
 
 #Creating a variable named alien_color.
-alien_color = ("Red") #the first test where the color is same with the answer.
+alien_color = ("Green") #the first test where the color is same with the answer.
 
 if alien_color.strip().lower() == "green":#strip and lower is wrote so that what ever the input is if its lower or uppercase it wont matter.
 # if the answer  is correct then will print this 
