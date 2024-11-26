@@ -5,7 +5,7 @@
 Names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 #Writing the a name to check if the name is there on the list or not.
-name_to_find = ("Mia") #the name we have to find is 'Sam'.
+name_to_find = ("Sam") #the name we have to find is 'Sam'.
 
 #Finding if the name searched is there on the list or not.
 if name_to_find in Names:
