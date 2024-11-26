@@ -5,7 +5,7 @@ Try giving both your first and second name when asked for your name. What happen
 How can you handle multiple words in Python? 
 Test the program by entering a string value for age (e.g., "twenty"). What happens? How can you prevent this issue?
 """
-#Asking the user for their 'Full Name'.
+#Asking the user for their 'Full Name'. 
 user_name = input("Enter your full name: ").strip() 
 #'strip()' is used in here so that we could remove the extra spaces around the input.
 
